@@ -45,7 +45,7 @@
 }
 #myCalculator main section > div {
   padding: 5px 0;
-  background-color: rgba(0,0,0,.15);
+  background-color: rgba(0,0,0,.45);
 }
 #myCalculator main h4 {
   font-family: 'Open Sans Condensed', sans-serif;
